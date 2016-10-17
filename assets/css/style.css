@@ -1,6 +1,6 @@
 
 body {
-	background: #fff;
+	background-image: : url(img\escheresque_ste_@2X.png)
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     color: #888;
@@ -74,10 +74,10 @@ img { max-width: 100%; }
 
 .section-container-gray { background: #f8f8f8; }
 
-.section-container-full-bg, 
-.section-container-full-bg h1, 
-.section-container-full-bg h2, 
-.section-container-full-bg h3, 
+.section-container-full-bg,
+.section-container-full-bg h1,
+.section-container-full-bg h2,
+.section-container-full-bg h3,
 .section-container-full-bg h4 { color: #fff; }
 
 .section-description {
@@ -207,7 +207,7 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 
 .page-title-text {
 	width: 700px;
-	margin: 0 auto;	
+	margin: 0 auto;
 	color: #fff;
 }
 
