@@ -1788,6 +1788,7 @@
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
 			padding-bottom: 1em;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+			text-align: left;
 		}
 
 	h2 {
@@ -2238,6 +2239,7 @@
 		ul.alt {
 			list-style: none;
 			padding-left: 0;
+			text-align: left;
 		}
 
 			ul.alt li {
@@ -2865,7 +2867,7 @@
 					top: 0;
 					left: 0;
 					text-indent: 0;
-					text-align: right;
+					text-align: left;
 					margin-left: 0;
 					padding-right: 1.25em;
 				}
